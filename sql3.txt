@@ -1,1 +1,1 @@
-.gitkeep
+SELECT * FROM CUSTOMERS LIMIT 10
