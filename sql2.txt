@@ -1,1 +1,1 @@
-.gitkeep
+SELECT Cust_id from Customers limit 10;
